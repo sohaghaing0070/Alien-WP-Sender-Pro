@@ -1,21 +1,23 @@
 <div align="center">
 
 # 🛸 Alien WP Sender Pro Enterprise
-### **Next-Generation Bulk WhatsApp Marketing, B2B Lead Extraction & AI Auto-Reply Platform**
+### **Carrier-Grade Bulk WhatsApp Automation, B2B Lead Extractor & Autonomous AI Sales Engine**
 
 [![Release](https://img.shields.io/badge/Release-v2.5.0_PRO_Enterprise-00c853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohaghaing0070/Alien-WP-Sender-Pro/releases/tag/v2.5.0)
 [![OS](https://img.shields.io/badge/Windows-10_%7C_11_%7C_Server-0078d7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sohaghaing0070/Alien-WP-Sender-Pro)
 [![Platform](https://img.shields.io/badge/Framework-.NET_7.0_WPF_%7C_Node.js_Baileys-673ab7?style=for-the-badge)](https://github.com/sohaghaing0070/Alien-WP-Sender-Pro)
 [![Offline](https://img.shields.io/badge/Installation-100%25_Offline_Standalone-ff6d00?style=for-the-badge)](https://github.com/sohaghaing0070/Alien-WP-Sender-Pro)
-[![AI Engine](https://img.shields.io/badge/AI_Engine-DeepSeek_%7C_Gemini_%7C_n8n_v2-009688?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/sohaghaing0070/Alien-WP-Sender-Pro)
+[![AI Engine](https://img.shields.io/badge/AI_Engine-DeepSeek_%7C_OpenAI_%7C_n8n_v2-009688?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/sohaghaing0070/Alien-WP-Sender-Pro)
 
 <br/>
 
-<img src="assets/banner.jpg" alt="Alien WP Sender Pro Enterprise v2.5" width="100%" style="border-radius: 10px;" />
+<a href="https://github.com/sohaghaing0070/Alien-WP-Sender-Pro">
+  <img src="https://raw.githubusercontent.com/sohaghaing0070/Alien-WP-Sender-Pro/main/assets/banner.jpg" alt="Alien WP Sender Pro Enterprise" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,255,136,0.15);" />
+</a>
 
 <br/><br/>
 
-**Alien WP Sender Pro Enterprise** is a carrier-grade Windows desktop application and resilient background gateway service engineered for high-speed WhatsApp marketing, automated B2B lead scraping, intelligent AI auto-replying, dynamic Spintax personalization, and REST API integration with zero recurring monthly charges.
+**Alien WP Sender Pro Enterprise** is a carrier-grade Windows desktop application and high-performance background gateway engineered for high-speed WhatsApp marketing, automated B2B lead scraping, intelligent AI auto-replying, dynamic Spintax personalization, and REST API integration with zero recurring monthly charges.
 
 <br/>
 
@@ -133,7 +135,7 @@ flowchart TD
 - 1-Click export directly into the Bulk Campaign Sender.
 
 <p align="center">
-  <img src="assets/Scr.png" alt="Alien WP Sender Pro GUI" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  <img src="https://raw.githubusercontent.com/sohaghaing0070/Alien-WP-Sender-Pro/main/assets/Scr.png" alt="Alien WP Sender Pro GUI" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </p>
 
 ### 3. 24/7 Autonomous AI Auto-Reply & Sales Agent (DeepSeek + n8n)
@@ -142,7 +144,7 @@ flowchart TD
 - Automatically quotes pricing, provides product specs, and directs clients to hotline `+8801710978997`.
 
 <p align="center">
-  <img src="assets/N8N_workflow_demo.jpg" alt="n8n AI Auto-Reply Workflow" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  <img src="https://raw.githubusercontent.com/sohaghaing0070/Alien-WP-Sender-Pro/main/assets/N8N_workflow_demo.jpg" alt="n8n AI Auto-Reply Workflow" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </p>
 
 ### 4. Multi-Media Attachments Sequencer
