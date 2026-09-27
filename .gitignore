@@ -1,0 +1,11 @@
+# Binaries & Release Archives (Published via GitHub Releases)
+*.exe
+*.zip
+*.tar.gz
+*.7z
+
+# Logs and Temp files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
