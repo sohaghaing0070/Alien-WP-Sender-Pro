@@ -202,10 +202,11 @@ GET http://localhost:3000/status
 
 ## 📦 Official Pricing & License Packages
 
-| License Tier | Price (BDT) | Price (USD) | Features Included |
+| License Tier | Price (BDT) | Price (USD) | Features & Services Included |
 | :--- | :---: | :---: | :--- |
-| **1-Year License** | **1,500 BDT** | **$20 USD** | Unlimited Bulk WhatsApp Sender + Google Maps Scraper + Standard Updates |
-| **Lifetime License** *(Best Value)* | **3,500 BDT** | **$45 USD** | Unlimited Marketing + Free Lifetime Updates + VIP Priority Support + Full API Access |
+| **Lifetime License** *(Software Only)* | **10,000 BDT** | **$90 USD** | Unlimited Bulk WhatsApp Sender + Google Maps Scraper + Real-Time Number Verifier + Free Lifetime Updates + VIP Priority Support + Full Local REST API Access |
+| **n8n AI Workflow Setup** *(Add-on / Service)* | **5,000 BDT** | **$45 USD** | Complete n8n AI Auto-Reply Bot Configuration + DeepSeek/OpenAI LLM Integration + Google Sheets Live Catalog Setup + Server Deployment & Webhook Binding |
+| **Complete Enterprise Bundle** *(Best Value)* | **15,000 BDT** | **$135 USD** | **Lifetime Software License + Full n8n AI Setup & Turnkey Deployment** + Dedicated 1-on-1 Onboarding & Custom Prompt Engineering |
 
 💳 **Accepted Payment Methods:** bKash (Personal/Merchant), Nagad, Rocket, Bank Transfer, Visa/Mastercard, USDT/Crypto.
 
